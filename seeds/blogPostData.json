@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Scrum vs. SAFe: Which Agile framework is right for your team?",
+      "content": "Scrum vs. SAFe: Making the right choice for powerful organizational change. We’ll explain each framework, their pros",
+      "author_id": 3,
+  
+      "updated_date": null,
+      "summary": "This is summary of blog post 1"
+    },
+    {
+      "title": "The Ultimate Tech Quiz",
+      "content": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
+      "author_id": 1,
+  
+      "updated_date": null,
+      "summary": "this is a summary of blog post 2"
+    },
+    {
+      "title": "Bard vs ChatGPT: Which is better for coding?",
+      "content": "We test out which tool is best at code generation, problem solving, refactoring code, providing debugging assistance",
+      "author_id": 2,
+  
+      "updated_date": null,
+      "summary": "this is a summary of blog post 3"
+    }
+  ]
