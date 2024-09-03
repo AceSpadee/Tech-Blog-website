@@ -5,7 +5,7 @@ Tech Blog Website MVC Architecture
 This is an blogging website based on Node and Express.js API and configured with Sequelize to interact with a MySQL database.
 
 ## Live Link
-[Tech Blogs]()
+[Tech Blogs](https://tech-blog-website-775s.onrender.com)
 
 ## User Story
 AS A developer who writes about tech
@@ -38,7 +38,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
  ## Contributing
 
- Pull requests are most welcome
+ Pull requests are welcome
 
  ## Queries
 
